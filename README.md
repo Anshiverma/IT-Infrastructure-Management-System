@@ -1,4 +1,4 @@
-IT Infrastructure Management System
+Web-based IT Infrastructure Asset Management System
 
 This is a web-based admin panel project developed using PHP, MySQL,and HTML/CSS.
 
