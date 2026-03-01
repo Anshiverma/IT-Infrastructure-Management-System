@@ -1,8 +1,8 @@
-# IT Infrastructure Management System
+IT Infrastructure Management System
 
-This is a web-based admin panel project developed using **PHP**, **MySQL**, and **HTML/CSS**.
+This is a web-based admin panel project developed using PHP, MySQL,and HTML/CSS.
 
-## 📌 Features
+Features
 ✔ Admin Login  
 ✔ Add Asset  
 ✔ View All Assets  
@@ -11,10 +11,10 @@ This is a web-based admin panel project developed using **PHP**, **MySQL**, and 
 ✔ Generate Asset Report  
 ✔ Export Asset Data to Excel
 
-## 🛠 Technology Used
+Technology Used
 ✔ PHP  
 ✔ MySQL  
 ✔ Bootstrap / CSS  
 ✔ XAMPP (Apache + MySQL)
 
-## 📁 Project Structure
+
